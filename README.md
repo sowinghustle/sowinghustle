@@ -2,7 +2,7 @@
 
 <img style='display: flex; justify-content: center; align-itens: center'  src='./img/jadeharley-jade.gif' alt = 'jade-harley-gif' />
 
-<tablealign="right">
+<table align="right">
 
 <tr><td><ahref="./README_EN.md">:us: English</a></td></tr>
 
@@ -14,7 +14,7 @@
 
 <divstyle="display: flex; align-itens: center; justify-content: space-between">
 
-<img src="https://komarev.com/ghpvc/?username=sowinghustle&color=yellow"alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=sowinghustle&color=yellow" alt="Profile views">
 
 </div>
 
