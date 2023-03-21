@@ -14,7 +14,7 @@
 
 <divstyle="display: flex; align-itens: center; justify-content: space-between">
 
-<img src="https://komarev.com/ghpvc/?username=sowinghustle&color=yellow"alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=sowinghustle&color=yellow"alt="Profile views">
 
 </div>
 
