@@ -10,9 +10,9 @@
 
 </table>
 
-<h1align="center">Olá 👋, Eu sou o João Vitor de Oliveira Lima`</h1>`
+<h1 align="center">Olá 👋, Eu sou o João Vitor de Oliveira Lima`</h1>`
 
-<divstyle="display: flex; align-itens: center; justify-content: space-between">
+<div style="display: flex; align-itens: center; justify-content: space-between">
 
 <img src="https://komarev.com/ghpvc/?username=sowinghustle&color=yellow" alt="Profile views">
 
@@ -96,21 +96,21 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
 
     - Linguagens
 
-    <divstyle="display: inline_block">
+    <div style="display: inline_block">
 
-    <imgalign="center"alt="PHP"height="30"width="40"src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
-    <imgalign="center"alt="CSHARP"height="30"width="40"src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
+    <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
+    <img align="center" alt="CSHARP" height="30" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
 
     `</div>`
 
     `<br />`
     - Frontend
 
-    <divstyle="display: inline_block">
+    <div  style="display: inline_block">
 
-    <imgalign="center"alt="HTML"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 
-    <imgalign="center"alt="CSS"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 
     `</div>`
 
@@ -118,9 +118,9 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
 
     - Backend
 
-    <divstyle="display: inline_block">
+    <div style="display: inline_block">
 
-    <imgalign="center"alt="Mysql"height="32"width="42"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img align="center" alt="Mysql" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
     `</div>`
 
@@ -128,9 +128,9 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
 
     - Outras tecnologias
 
-    <divstyle="display: inline_block">
+    <div style="display: inline_block">
 
-    <imgalign="center"alt="Git"height="30"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
     `</div>`
 
@@ -142,11 +142,11 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
 
 <summary><strong>⚙️  Gráfico de atividades Github</strong></summary>
 
-<divalign="center">
+<div align="center">
 
     `<br>`
 
-    <divalign="center">
+    <div align="center">
 
     [imgheight=&#34;150em&#34;src=&#34;https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sowinghustle&amp;theme=radical&#34;/](imgheight=%22150em%22src=%22https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sowinghustle&theme=radical%22/)
 
@@ -154,7 +154,7 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
 
     `<br>`
 
-    <divalign="center">
+    <div align="center">
 
     [imgheight=&#34;150em&#34;src=&#34;https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sowinghustle&amp;theme=radical&#34;/](imgheight=%22150em%22src=%22https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sowinghustle&theme=radical%22/)
 
@@ -164,7 +164,7 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
 
     `<br>`
 
-    <divalign="center">
+    <div align="center">
 
     [imgheight=&#34;150em&#34;src=&#34;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowinghustle&amp;theme=radical&#34;/](imgheight=%22150em%22src=%22https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowinghustle&theme=radical%22/)
 
