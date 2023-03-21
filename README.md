@@ -52,7 +52,7 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
 
 <div>
 
-    `<br />`
+    <br />
 
     [ahref=&#34;mailto:guilhermemaia_1404@hotmail.com&#34;](ahref=%22mailto:guilhermemaia_1404@hotmail.com%22)
 
@@ -60,7 +60,7 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
 
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white"alt="gmail">
 
-    `</a>`
+    </a>
 
     [ahref=&#34;https://www.instagram.com/guilherme.cmds/&#34;](ahref=%22https://www.instagram.com/guilherme.cmds/%22)
 
@@ -70,7 +70,7 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
 
     alt="instagram">
 
-    `</a>`
+    </a>
 
     [ahref=&#34;https://br.linkedin.com/in/guilherme-c-4653b0241/pt](ahref=%22https://br.linkedin.com/in/guilherme-c-4653b0241/pt)
     <a href='https://br.linkedin.com/in/guilherme-c-4653b0241/pt'>Meu Linkedin</a>
@@ -89,9 +89,9 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
 
 <details>
 
-    `<summary><strong>`🛠 &nbsp;Skills`</strong></summary>`
+    <summary><strong>`🛠 &nbsp;Skills`</strong></summary>
 
-    `<br />`
+    <br />
 
 
     - Linguagens
@@ -101,9 +101,9 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
     <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
     <img align="center" alt="CSHARP" height="30" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
 
-    `</div>`
+    </div>
 
-    `<br />`
+    <br />
     - Frontend
 
     <div  style="display: inline_block">
@@ -112,9 +112,9 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
 
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 
-    `</div>`
+    </div>
 
-    `<br />`
+    <br />
 
     - Backend
 
@@ -122,9 +122,9 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
 
     <img align="center" alt="Mysql" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-    `</div>`
+    </div>
 
-    `<br />`
+    <br />
 
     - Outras tecnologias
 
@@ -132,7 +132,7 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
 
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-    `</div>`
+    </div>
 
 </details>
 
@@ -144,15 +144,15 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
 
 <div align="center">
 
-    `<br>`
+    <br>
 
     <div align="center">
 
     [imgheight=&#34;150em&#34;src=&#34;https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sowinghustle&amp;theme=radical&#34;/](imgheight=%22150em%22src=%22https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sowinghustle&theme=radical%22/)
 
-    `</div>`
+    </div>
 
-    `<br>`
+    <br>
 
     <div align="center">
 
@@ -160,17 +160,17 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
 
     [imgheight=&#34;150em&#34;src=&#34;https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sowinghustle&amp;theme=radical&#34;/](imgheight=%22150em%22src=%22https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sowinghustle&theme=radical%22/)
 
-    `</div>`
+    </div>
 
-    `<br>`
+    <br>
 
     <div align="center">
 
     [imgheight=&#34;150em&#34;src=&#34;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowinghustle&amp;theme=radical&#34;/](imgheight=%22150em%22src=%22https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowinghustle&theme=radical%22/)
 
-    `</div>`
+    </div>
 
-    `<br>`
+    <br>
 
 </div>
 
