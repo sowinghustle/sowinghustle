@@ -14,7 +14,7 @@
 
 <divstyle="display: flex; align-itens: center; justify-content: space-between">
 
-<imgsrc="https://komarev.com/ghpvc/?username=sowinghustle&color=yellow"alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=sowinghustle&color=yellow"alt="Profile views" />
 
 </div>
 
@@ -171,7 +171,6 @@ Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No m
     `</div>`
 
     `<br>`
-
 
 </div>
 
