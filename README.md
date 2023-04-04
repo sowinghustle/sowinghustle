@@ -20,11 +20,11 @@
 
 <br />
 
-<p>Atualmente estou focado no universo JavaScript,  estudando React para front-end e Node para back-end (De vez em quando brinco no mobile com o React Native)
+<p>atualmente estou estudando JavaScript, pretendendo avançar para suas bibliotecas e frameworks. No momento aprendendo desenvolvimento de jogos utilizando a engine GameMaker2
 
-Gosto de desenvolver projetos com meus amigos a partir ideias que pensamos. No momento estamos desenvolvendo o Luna bus, um aplicativo de transporte público para cidades de pequeno e médio porte
+Possuo um interesse por front-end, e um gosto por C#, procurando me especializar cada vez mais no futuro a vir.
 
-🚀"Great things come from hard work and perseverance. No excuses".🔥
+🎵"Same old dull routine, same aloo gobi".🎶
 
 </p>
 
