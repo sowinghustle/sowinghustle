@@ -24,9 +24,7 @@
 
 Possuo um interesse por front-end, e um gosto por C#, procurando me especializar cada vez mais no futuro a vir.
 
-<a id ="aHrefMusica" style=" text-decoration: none;
-
-color: cornflowerblue" href="https://www.youtube.com/watch?v=CSYdDQEfYhM">🎵"Same old dull routine, same aloo gobi".🎶</a>
+<a id ="aHrefMusica" style=" text-decoration: none; color: cornflowerblue" href="https://www.youtube.com/watch?v=CSYdDQEfYhM">🎵"Same old dull routine, same aloo gobi".🎶</a>
 
 </p>
 
