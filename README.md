@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img  style='display: flex; justify-content: center; align-itens: center'  src='./img/jadeharley-jade.gif'  alt = 'jade-harley-gif' />
+//<img  style='display: flex; justify-content: center; align-itens: center'  src='./img/jadeharley-jade.gif'  alt = 'jade-harley-gif' />
 
 <table  align="right">
 
