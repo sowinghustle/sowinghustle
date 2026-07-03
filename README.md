@@ -51,7 +51,7 @@ https://github.com/sowinghustle/Projeto-Ecommerce
   <a href="mailto:guilhermemaia5585@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://br.linkedin.com/in/guilherme-c-4653b0241/pt">
+  <a href="https://br.linkedin.com/in/guilherme-cristiano-m-4653b0241/pt">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
 </div>
